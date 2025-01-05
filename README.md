@@ -1,2 +1,2 @@
 # web_vlm
-Use LLM for better consumption of webpage.
+使用大模型为阅读进行总结，加快信息的获取。
